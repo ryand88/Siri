@@ -1,0 +1,27 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "siri project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryand88/Siri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryand88/Siri/issues"
+  },
+  "homepage": "https://github.com/ryand88/Siri#readme"
+}
